@@ -1,0 +1,2 @@
+# .github
+Yazılım müh projesi
